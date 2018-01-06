@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<!-- saved from url=(0060)http://www.personal.psu.edu/cgi-bin/dept/cac/ets/faculty3.pl -->
+<html lang="en-US">
+<head>
+	<link rel="stylesheet" type="text/css" href="/css/main.css">
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56075896-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  <meta name="Boris Rebolledo Jaramillo" content="Curriculum" charset="ISO-8859-1">
+  <title>Boris Rebolledo-Jaramillo's CV</title>
+
+</head>
+
+<body text="#504A4B" link="#2B65EC" vlink="#810541" alink="green">
+
+<!-- Penn State logo-->
+
+<div align="right">
+  <p>
+    <a href="http://medicina.udd.cl/centro-genetica-genomica/">
+      <img height="75" src="./homepage_files/lion.png" width="300" 
+           alt="Penn State Official Shield" name="shield" border="0">
+    </a>
+  </p>
+</div>
+<hr>
+
+<p>
+  <table>
+     <tr>
+      <!-- Boris photo-->
+        <td valign="top"><img src="./homepage_files/boris.jpg" width="142" 
+          height="142" border="3" alt="personal photo" align="middle">
+        </td>
+      <!-- Boris info-->
+        <td valign="top">
+            <font size="+2" ><b>Boris E. Rebolledo-Jaramillo</b></font><br>
+            <font size="+1" ><b>Ph.D. in Bioinformatics and Genomics</b></font><br><br>
+            <font size="+0" ><b>Office:</b><br>
+                                Av. Las Condes 12438<br>
+                                Lo Barnechea, RM, Chile</font><br>
+            <font size="+0" ><b>E-mail:</b>&nbsp; <a href="mailto:brebolledo@udd.cl">brebolledo@udd.cl</a></font>
+        </td>
+    </tr>
+   </table>
+</p>
+
+<!-- Web/Social-->
+<p>
+   <table>
+      <tr align="center">
+        <!-- LinkedID-->
+        <td style="padding-right:10px"><a href="http://www.linkedin.com/in/berebolledo">
+            <img src="./homepage_files/linkedin.png" width="80" height="15" border="0" alt="LinkedIn">
+        </a></td>
+        <!-- Pubmed-->
+        <td style="padding-right:10px"><a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=rebolledo+jaramillo+boris">
+            <img src="./homepage_files/pubmed.png" width="80" height="30" border="0" alt="Pubmed">    
+        </a></td>
+        <!-- Google Scholar-->
+        <td style="padding-right:10px"><a href="https://scholar.google.com/citations?user=pOxJ9mIAAAAJ&hl=en">
+            <img src="./homepage_files/scholar.png" width="80" height="30" border="0" alt="Google Scholar">
+        </a></td>
+        <!-- Github -->
+        <td style="padding-right:10px"><a href="https://github.com/berebolledo">
+            <img src="./homepage_files/GitHub_Logo.png" width="80" height="30" border="0" alt="GitHub">
+        </a></td>
+      </tr>
+
+    </table>
+</p>
+
+<!-- Education -->
+<p>
+<font size="+0" ><b>EDUCATION</b><img height="7" src="./homepage_files/rule_l.gif" width="324" alt="bar"></font>
+
+  <table>
+   <tr>
+    <td style="padding-right:20px;padding-left:20px;padding-bottom:20px">2016</td> 
+    <td style="padding-bottom:10px">Ph.D. in Integrative Biosciences, Bioinformatics and Genomics option<br><i>Pennsylvania State Unversity, USA.</i></td>
+  </tr>  
+    <tr>
+      <td style="padding-right:20px;padding-left:20px;padding-bottom:20px">2010</td> 
+      <td style="padding-bottom:10px">M.Sc. Biochemistry and Bioinformatics<br><i>University of Concepcion, Chile.</i></td>
+    </tr>
+    <tr>
+      <td style="padding-right:20px;padding-left:20px;padding-bottom:20px">2008</td> 
+      <td style="padding-bottom:10px">B.Sc. Bioengineering, minor in Cell and Molecular Biology<br><i>University of Concepcion, Chile.</i></td>
+    </tr>
+<table>
+
+</p>
+
+
+<!-- RESEARCH-->
+
+<font size="+0" ><b>RESEARCH</b><img height="7" src="./homepage_files/rule_l.gif" width="324" alt="bar"></font>
+  <blockquote>
+    <p>
+      <font size="+0">I am currently a researcher at <a href=http://medicina.udd.cl/centro-genetica-genomica/ title="CGG"> the Center for Genetics and Genomics of the Universidad del Desarrollo in Chile.</a> I focus on the development of bioinformatic pipelines for the analysis of clinically relevant genetic variation <br><br>
+
+      I did my Ph.D. with <a href=http://bmb.psu.edu/directory/aun1 title="anton"> Anton Nekrutenko</a> and <a href=http://www.bx.psu.edu/makova_lab/ title="kateryna"> Kateryna Makova</a> at <a href=http://www.psu.edu title="PennState"> Penn State, USA </a>. We studied basic aspects of mitochondrial DNA biology, such as heteroplasmy, size of the germline bottleneck, and evolution. Highlights of my previous research are shown below:
+      </font>
+    </p>
+  <br>
+  <p>
+    <i>Research highlights</i>
+  </p>
+  <table>
+    <tr align="center">
+      <!-- Biotechniques -->
+      <td style="padding-right:20px;padding-left:20px">
+        <a href="http://goo.gl/jv2J34">
+        <img src="./homepage_files/biotechniques.jpg" width="100" height="200" border="1"><br>
+        <font size="-1">Beware of sample cross-contamination<br>in re-sequencing studies</font></a><td>
+      <!-- PNAS -->
+      <td style="padding-right:20px;padding-left:20px">
+        <a href="http://www.pnas.org/content/111/43/15474">
+        <img src="./homepage_files/pnas.png" width="200" height="200" border="1"><br>
+        <font size="-1">Children of older women carry more<br>mtDNA heteroplasmies</font></a><td>
+      <!-- Jupyter -->
+      <td style="padding-right:20px;padding-left:20px">
+        <a href="https://github.com/berebolledo/mynotebooks/blob/master/Rebolledo-Jaramillo_mtDNA_heteroplasmy_PNAS_2014.ipynb">
+        <img src="./homepage_files/jupyter.png" width="200" height="200" border="+1"><br>
+        <font size="-1">Reproducible research with<br>Jupyter notebooks and Galaxy</font></a><td>
+    </tr>
+  </table>
+  </blockquote>
+
+<br>
+<!-- Publications-->
+<p>
+<font size="+0" ><b>PEER REVIEWED PUBLICATIONS</b><img height="7" src="./homepage_files/rule_l.gif" width="324" alt="bar"></font>
+<font size="-1">
+    <ol reversed>
+
+<li><p>
+Hasbun R, Iturra C, Bravo S, <b>Rebolledo-Jaramillo B</b>, Valledor L. (2016). <b>Differential Methylation of Genomic Regions Associated with Heteroblasty Detected by M&M Algorithm in the Nonmodel Species Eucalyptus globulus Labill.</b> <a href="http://www.hindawi.com/journals/ijg/2016/4395153/"> Int. J. Genomics, vol. 2016, 4395153.</a>
+</li></p>
+
+<li><p>
+<b>Rebolledo-Jaramillo B*</b>, Su MS*, McElhoe J, Stoller N, Dickins B, Korneliussen T, Nielsen R, Holland M, Paul I, Nekrutenko A, Makova KD. (2014)
+    <b>Maternal Age Effect and Severe Germline Bottleneck in the Inheritance of Human Mitochondrial DNA. </b> [*Equal contribution]
+    <a href="http://www.pnas.org/content/111/43/15474" > PNAS 111(43):15474 </a>
+</li></p>
+
+<li><p>
+<b>Rebolledo-Jaramillo B</b>, Alarcon RA, Fernandez VI, Gutierrez SE. (2014).
+    <b>Cis-regulatory elements are harbored in Intron5 of the RUNX1 gene. </b> 
+    <a href="http://www.biomedcentral.com/1471-2164/15/225/abstract">BMC Genomics 15:225 </a>
+</li></p>
+
+<li><p>
+Dickins B*, <b>Rebolledo-Jaramillo B*</b>, Shu-Wei S, Paul IM, Blankenberg D, Stoler N, Makova KD, Nekrutenko A. (2014).
+    <b>Controlling for contamination in resequencing studies with a reproducible web-based phylogenetic approach.</b> [*Equal contribution] 
+    <a href="http://goo.gl/jv2J34">BioTechniques, 56(3):134 </a>
+</li></p>
+
+<li><p>
+Zheng R, <b>Rebolledo-Jaramillo B</b>, Zong Y, Wang L, Russo P, Hancock W, Stanger B, Hardison R, Blobel G (2013).
+    <b>Function of GATA factors in the adult mouse liver.</b>
+    <a href="http://dx.plos.org/10.1371/journal.pone.0083723">PLoS One. 2013 Dec 18;8(12):e83723 </a>
+</li></p>
+
+<li><p>
+Bar-Yaacov D, Avital G, Levin L, Richards A, Hachen N, <b>Rebolledo-Jaramillo B</b>, Nekrutenko A, Zarivach R, Mishmar D. (2013).
+    <b>RNA-DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA.</b>
+    <a href="http://genome.cshlp.org/content/23/11/1789.long">Genome Res. 23(11):1789-96</a>
+</li></p>
+</ol></font>
+</p>
+
+<br>
+<!--Chapters-->
+<p>
+<font size="+0" ><b>BOOK CHAPTERS</b><img height="7" src="./homepage_files/rule_l.gif" width="324" alt="bar"></font>
+<font size="-1">
+<ol reversed>
+  <li>
+Gutierrez S, Javed A, Stein J, Stein G, Nicovani S, Fernandez V, Alarcon R, Stuardo M, Martinez M, Hinojosa M and <b>Rebolledo Jaramillo B</b> (2011).
+    <b>Epigenetic Changes Associated with Chromosomal Translocation in Leukemia</b>, Myeloid Leukemia - Basic Mechanisms of Leukemogenesis, Steffen Koschmieder and Utz Krug (Ed.), ISBN: 978-953-307-789-5, InTech.
+    <a href="http://www.intechopen.com/books/myeloid-leukemia-basic-mechanisms-of-leukemogenesis/epigenetic-changes-associated-with-chromosomal-translocation-in-leukemia">Download from InTech</a>
+  </li>
+</ol>
+</font>
+</p>
+
+<br>
+<!--Conferences-->
+<p>
+<font size="+0" ><b>SELECTED CONFERENCES</b><img height="7" src="./homepage_files/rule_l.gif" width="324" alt="bar"></font>
+<font size="-1">
+<h3><i>Talks</i></h3>
+<ul>
+<li>
+  Maternal Age Effect and Severe Germline Bottleneck in the Inheritance of Human Mitochondrial DNA. <b>The Biology of Genomes</b>; 2015 May 5-9. Cold Spring Harbor, NY, USA.
+</li>
+<li>
+  Maternal Age Effect and Severe Germline Bottleneck in the Inheritance of Human Mitochondrial DNA. <b>Translational Research in Mitochondria, Ageing and Disease</b>; 2014 October 4. Pittsburgh, PA, USA.
+</li>
+<li>
+  Substantial mitochondrial DNA heteroplasmy allele frequency alterations across tissues and generations in a population of healthy humans. <b>Society for Molecular Biology and Evolution</b>; 2014 June 8-12. San Juan, PR, USA.
+</li>
+</ul>
+
+<h3><i>Posters</i></h3>
+<ul>
+  <li>
+    Controlling for cross-contamination with a reproducible phylogenetic approach. <b>Genome Informatics</b>; 2013 Oct 30-Nov 2. Cold Spring Harbor, NY, USA.
+  </li>
+  <li>
+    Minimizing and monitoring the level of cross-sample contamination in non-diploid samples sequenced with NGS: The case of mitochondrial heteroplasmy. <b>Society for Molecular Biology and Evolution</b>; 2013 July 9-11. Chicago, IL, USA.
+  </li>
+</ul>
+</font>
+</p>
+
+<br>
+
+<!-- Awards-->
+<p>
+<font size="+0" ><b>AWARDS</b><img height="7" src="./homepage_files/rule_l.gif" width="324" alt="bar"></font>
+  <table>
+   <tr>
+    <td style="padding-right:20px;padding-left:20px;padding-bottom:20px">2010</td> 
+    <td style="padding-bottom:10px">Huck Institutes of the Life Sciences Fellowship<br><i>Pennsylvania State Unversity, USA.</i></td>
+    </tr>  
+    <tr>
+      <td style="padding-right:20px;padding-left:20px;padding-bottom:20px">2010</td> 
+      <td style="padding-bottom:10px">Fulbright for doctoral studies<br><i>Department of State, USA.</i></td>
+      </tr>
+    <tr>
+      <td style="padding-right:20px;padding-left:20px;padding-bottom:20px">2010</td> 
+      <td style="padding-bottom:10px">Becas-Chile scholarship for doctoral studies abroad<br><i>CONICYT, Chile.</i></td>
+    </tr>
+    <tr>
+      <td style="padding-right:20px;padding-left:20px;padding-bottom:20px">2004</td> 
+      <td style="padding-bottom:10px">Enrique Molina Garmendia Scholarship<br><i>University of Concepcion, Chile.</i></td>
+    </tr>
+<table>
+</p>
+
+
+<hr>
+<center>
+	<p></p>
+  <p>
+    <font size="-2" color="##000066" face="ARIAL, HELVETICA, SANS-SERIF" > Page maintained by: <a href="mailto:boris@bx.psu.edu">boris@bx.psu.edu</a> </font>
+  </p>
+
+</center>
+
+</body>
+</html>
+
+
