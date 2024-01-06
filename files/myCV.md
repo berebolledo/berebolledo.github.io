@@ -35,7 +35,8 @@ Universidad del Desarrollo, Chile
 
 
 #### Teaching experience
-1. Graduate
+1. Graduate  
+
 |Year|Course/Activity|Program|University|
 |---|---|---|---|
 |2017 – present | R for Biostatistics | Ph.D. in Science and Innovation in Medicine| Universidad del Desarrollo, Chile|
@@ -47,7 +48,8 @@ Universidad del Desarrollo, Chile
 |2020        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile|
 |2018        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile |
 
-2. Undergraduate
+2. Undergraduate  
+
 |Year|Course/Activity|Program|University
 |---|-----|---|---|
 |2020 |Thesis advisor|Medical Technology|Universidad del Desarrollo, Chile
