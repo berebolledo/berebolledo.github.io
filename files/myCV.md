@@ -19,14 +19,14 @@ Universidad del Desarrollo, Chile
 
 #### Work experience
 
->|Year|Position|Location|
+|Year|Position|Location|
 |---|-----|---|
 |2019 – present |Assistant research professor|Universidad del Desarrollo, Chile|
 |2016 – 2019|Postdoctoral researcher|Universidad del Desarrollo, Chile|
 
 #### Grants
 
->|Year|Role|Grant number|Title
+|Year|Role|Grant number|Title
 |---|-----|---|---|
 |2022 – 2024 |PI|FONDECYT 11220642| Contribution of intergenerational mitonuclear mismatch to disease in Latin-American admixed patients
 |2022 – 2025 |Co-PI|FONDECYT 1221802| Functional genomics in autoinflammatory diseases
