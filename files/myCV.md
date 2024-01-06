@@ -4,7 +4,7 @@ Center for Genetics and Genomics
 Facultad de Medicina Clínica Alemana  
 Universidad del Desarrollo, Chile  
 
-[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Rebolledo-Jaramillo%20B%5BAuthor%5D) || [LinkedIn](https://www.linkedin.com/in/berebolledo/) || [ORCID](https://orcid.org/0000-0001-8059-3202) || [GoogleScholar](https://scholar.google.com/citations?user=pOxJ9mIAAAAJ&hl=en)  || brebolledo [at] udd.cl 
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Rebolledo-Jaramillo%20B%5BAuthor%5D) || [LinkedIn](https://www.linkedin.com/in/berebolledo/) || [ORCID](https://orcid.org/0000-0001-8059-3202) || [GoogleScholar](https://scholar.google.com/citations?user=pOxJ9mIAAAAJ&hl=en)  || brebolledo [at] udd.cl
 #### Summary
 
 > Director of the Bioinformatics Core Facility and lead bioinformatician for the Rare Diseases Program at Universidad del Desarrollo, Chile. With seven years of experience in the clinical genomics field, I bring expertise in research, teaching bioinformatics and biostatistics, and developing bioinformatics software.
@@ -36,16 +36,16 @@ Universidad del Desarrollo, Chile
 
 #### Teaching experience
 1. Graduate
->|Year|Course/Activity|Program|University
-|---|-----|---|---|
-|2017 – present |R for Biostatistics|Ph.D. in Science and Innovation in Medicine|Universidad del Desarrollo, Chile
-|2017 – present |Bioinformatics|Ph.D. in Science and Innovation in Medicine| Universidad del Desarrollo. Chile
-|2022 – 2024 |Thesis co-advisor|M.Sc. in Neuroscience| Universidad de Chile, Chile
-|2023 |Thesis external reviewer|M.Sc. in Biochemistry and Bioinformatics| Universidad de Concepcion, Chile
-|2021 |Thesis external reviewer|Ph.D. in Nutrition and Food| Universidad de Chile, Chile
-|2021 |Research rotation advisor|M.Sc. in Biological Sciences| Universidad de Chile, Chile
-|2020 |Research rotation advisor|Ph.D. in Science and Innovation in Medicine| Universidad del Desarrollo. Chile
-|2018 |Research rotation advisor|Ph.D. in Science and Innovation in Medicine| Universidad del Desarrollo. Chile  
+>|Year|Course/Activity|Program|University|
+|---|---|---|---|
+|2017 – present | R for Biostatistics | Ph.D. in Science and Innovation in Medicine| Universidad del Desarrollo, Chile|
+|2017 – present | Bioinformatics      | Ph.D. in Science and Innovation in Medicine| Universidad del Desarrollo. Chile|
+|2022 – 2024 |Thesis co-advisor          | M.Sc. in Neuroscience                   | Universidad de Chile, Chile|
+|2023        | Thesis external reviewer  | M.Sc. in Biochemistry and Bioinformatics| Universidad de Concepcion, Chile|
+|2021        | Thesis external reviewer  | Ph.D. in Nutrition and Food             | Universidad de Chile, Chile|
+|2021        | Research rotation advisor | M.Sc. in Biological Sciences            | Universidad de Chile, Chile|
+|2020        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile|
+|2018        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile | 
 
 2. Undergraduate
 >|Year|Course/Activity|Program|University
