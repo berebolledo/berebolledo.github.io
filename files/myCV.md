@@ -4,11 +4,14 @@ Center for Genetics and Genomics
 Facultad de Medicina Clínica Alemana  
 Universidad del Desarrollo, Chile  
 
-[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Rebolledo-Jaramillo%20B%5BAuthor%5D) || [LinkedIn](https://www.linkedin.com/in/berebolledo/) || [ORCID](https://orcid.org/0000-0001-8059-3202) || [GoogleScholar](https://scholar.google.com/citations?user=pOxJ9mIAAAAJ&hl=en)  || brebolledo [at] udd.cl
+[Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Rebolledo-Jaramillo%20B%5BAuthor%5D) || [LinkedIn](https://www.linkedin.com/in/berebolledo/) || [ORCID](https://orcid.org/0000-0001-8059-3202) || [GoogleScholar](https://scholar.google.com/citations?user=pOxJ9mIAAAAJ&hl=en)  || brebolledo [at] udd.cl  
+
+  ---
 #### Summary
 
 > Director of the Bioinformatics Core Facility and lead bioinformatician for the Rare Diseases Program at Universidad del Desarrollo, Chile. With seven years of experience in the clinical genomics field, I bring expertise in research, teaching bioinformatics and biostatistics, and developing bioinformatics software.
 
+  ---
 #### Academic degrees
 
 | Year | Degree | University |  
@@ -17,6 +20,7 @@ Universidad del Desarrollo, Chile
 | 2012 | M.Sc. in Biochemistry and Bioinformatics | University of Concepcion, Chile |
 | 2009 | Bioengineering | University of Concepcion, Chile |
 
+  ---
 #### Work experience
 
 |Year|Position|Location|
@@ -24,6 +28,7 @@ Universidad del Desarrollo, Chile
 |2019 – present |Assistant research professor|Universidad del Desarrollo, Chile|
 |2016 – 2019|Postdoctoral researcher|Universidad del Desarrollo, Chile|
 
+  ---
 #### Grants
 
 |Year|Role|Grant number|Title
@@ -33,7 +38,7 @@ Universidad del Desarrollo, Chile
 |2018 – 2021 |Co-PI|FONDECYT 1171014| Prodromal manifestations of Parkinson's disease in a high risk population: 22q11.2 microdeletion syndrome
 |2017 – 2019 |PI|FONDECYT 3170280| Contribution of mitochondrial DNA heteroplasmy to the phenotype of patients with maternally transmitted 22q11.2 deletion syndrome
 
-
+  ---
 #### Teaching experience  
 
 1. Graduate  
@@ -58,6 +63,7 @@ Universidad del Desarrollo, Chile
 |2019 |Thesis co-advisor|Biotechnology|Universidad Mayor, Chile
 
 
+  ---
 >#### Peer reviewed publications
 (*) equal contribution
 
@@ -98,6 +104,7 @@ Universidad del Desarrollo, Chile
 1. Bar-Yaacov D, Avital G, Levin L, Richards A, Hachen N, **Rebolledo-Jaramillo B**, Nekrutenko A, Zarivach R, Mishmar D. (2013). RNA-DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA. Genome Res. 23(11):1789-96 [doi:10.1101/gr.161265.113](https://doi.org/10.1101/gr.161265.113)
 
 
+  ---
 >#### Book chapters
 
 1. Repetto G and **Rebolledo Jaramillo B** (2019). Rare diseases: Genomics and public health - Applied Genomics And Public Health, George Patrinos (Ed.), ISBN: 9780128136966, Academic Press. [doi:10.1016/B978-0-12-813695-9.00003-0](https://doi.org/10.1016/B978-0-12-813695-9.00003-0)
