@@ -34,7 +34,8 @@ Universidad del Desarrollo, Chile
 |2017 – 2019 |PI|FONDECYT 3170280| Contribution of mitochondrial DNA heteroplasmy to the phenotype of patients with maternally transmitted 22q11.2 deletion syndrome
 
 
-#### Teaching experience
+#### Teaching experience  
+
 1. Graduate  
 
 |Year|Course/Activity|Program|University|
@@ -48,12 +49,14 @@ Universidad del Desarrollo, Chile
 |2020        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile|
 |2018        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile |
 
+
 2. Undergraduate  
 
 |Year|Course/Activity|Program|University
 |---|-----|---|---|
 |2020 |Thesis advisor|Medical Technology|Universidad del Desarrollo, Chile
 |2019 |Thesis co-advisor|Biotechnology|Universidad Mayor, Chile
+
 
 >#### Peer reviewed publications
 (*) equal contribution
@@ -93,6 +96,7 @@ Universidad del Desarrollo, Chile
 2. Zheng R, **Rebolledo-Jaramillo B**, Zong Y, Wang L, Russo P, Hancock W, Stanger B, Hardison R, Blobel G (2013). Function of GATA factors in the adult mouse liver. PLoS One. 18;8(12):e83723 [doi:10.1371/journal.pone.0083723](https://doi.org/10.1371/journal.pone.0083723)
 
 1. Bar-Yaacov D, Avital G, Levin L, Richards A, Hachen N, **Rebolledo-Jaramillo B**, Nekrutenko A, Zarivach R, Mishmar D. (2013). RNA-DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA. Genome Res. 23(11):1789-96 [doi:10.1101/gr.161265.113](https://doi.org/10.1101/gr.161265.113)
+
 
 >#### Book chapters
 
