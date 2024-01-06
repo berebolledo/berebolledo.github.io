@@ -11,8 +11,8 @@ Universidad del Desarrollo, Chile
 
 #### Academic degrees
 
->| Year | Degree | University |
-| --- | --- | --- |
+| Year | Degree | University |  
+| --- | --- | --- |  
 | 2016 | Ph.D. in Bioinformatics and Genomics | Pennsylvania State University, USA |
 | 2012 | M.Sc. in Biochemistry and Bioinformatics | University of Concepcion, Chile |
 | 2009 | Bioengineering | University of Concepcion, Chile |
