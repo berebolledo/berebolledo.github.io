@@ -63,6 +63,15 @@ Universidad del Desarrollo, Chile
 |2019 |Thesis co-advisor|Biotechnology|Universidad Mayor, Chile
 
 
+---
+#### Memberships
+
+- Sociedad de Genética de Chile (SOCHIGEN, Secretary General 2022-2024)
+- Sociedad Chilena de Evolución (SOCEVOL)
+- Sociedad Chilena de Bioinformática (SCB)
+- Sociedad Española de Bioinformática y Biología Computacional (SEBiBC)
+- American Society of Human Genetics
+
   ---
 >#### Peer reviewed publications
 (*) equal contribution
