@@ -11,18 +11,18 @@ Universidad del Desarrollo, Chile
 
 #### Academic degrees
 
->|Year|Degree|University
+>|Year|Degree|University|
 |---|-----|---|
-|2016|Ph.D. in Bioinformatics and Genomics|Pennsylvania State University, USA
-|2012|M.Sc. in Biochemistry and Bioinformatics|Univeristy of Concepcion, Chile
-|2009|Bioengineering|University of Concepcion, Chile
+|2016|Ph.D. in Bioinformatics and Genomics|Pennsylvania State University, USA|
+|2012|M.Sc. in Biochemistry and Bioinformatics|Univeristy of Concepcion, Chile|
+|2009|Bioengineering|University of Concepcion, Chile|
 
 #### Work experience
 
->|Year|Position|Location
+>|Year|Position|Location|
 |---|-----|---|
-|2019 – present |Assistant research professor|Universidad del Desarrollo, Chile
-|2016 – 2019|Postdoctoral researcher|Universidad del Desarrollo, Chile
+|2019 – present |Assistant research professor|Universidad del Desarrollo, Chile|
+|2016 – 2019|Postdoctoral researcher|Universidad del Desarrollo, Chile|
 
 #### Grants
 
@@ -45,7 +45,7 @@ Universidad del Desarrollo, Chile
 |2021        | Thesis external reviewer  | Ph.D. in Nutrition and Food             | Universidad de Chile, Chile|
 |2021        | Research rotation advisor | M.Sc. in Biological Sciences            | Universidad de Chile, Chile|
 |2020        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile|
-|2018        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile | 
+|2018        | Research rotation advisor | Ph.D. in Science and Innovation in Medicine | Universidad del Desarrollo, Chile |
 
 2. Undergraduate
 >|Year|Course/Activity|Program|University
