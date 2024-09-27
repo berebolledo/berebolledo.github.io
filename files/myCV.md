@@ -9,7 +9,7 @@ Universidad del Desarrollo, Chile
   ---
 #### Summary
 
-> Director of the Bioinformatics Core Facility and lead bioinformatician for the Rare Diseases Program at Universidad del Desarrollo, Chile. With seven years of experience in the clinical genomics field, I bring expertise in research, teaching bioinformatics and biostatistics, and developing bioinformatics software.
+> Director of the Bioinformatics Core Facility and lead bioinformatician for the Rare Diseases Program at Universidad del Desarrollo, Chile. With eight years of experience in the clinical genomics field, I bring expertise in research, teaching bioinformatics and biostatistics, and developing bioinformatics software.
 
   ---
 #### Academic degrees
@@ -66,7 +66,7 @@ Universidad del Desarrollo, Chile
 ---
 #### Memberships
 
-- Sociedad de Genética de Chile (SOCHIGEN, Secretary General 2022-2024)
+- Sociedad de Genética de Chile (SOCHIGEN, Secretary General 2022-2026)
 - Sociedad Chilena de Evolución (SOCEVOL)
 - Sociedad Chilena de Bioinformática (SCB)
 - Sociedad Española de Bioinformática y Biología Computacional (SEBiBC)
